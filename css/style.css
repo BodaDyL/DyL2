@@ -814,3 +814,9 @@ body{font-family:Inter,system-ui,sans-serif;background:var(--bg);color:#fff}
 .hero-date{text-transform:uppercase}
 .footer .date{font-style:italic}
 
+.nota-invitacion {
+  margin-top: 10px;
+  font-size: 14px;
+  font-style: italic;
+  color: #d4af37; /* dorado elegante */
+}
