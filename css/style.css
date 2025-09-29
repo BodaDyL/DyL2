@@ -815,8 +815,10 @@ body{font-family:Inter,system-ui,sans-serif;background:var(--bg);color:#fff}
 .footer .date{font-style:italic}
 
 .nota-invitacion {
-  margin-top: 10px;
-  font-size: 14px;
-  font-style: italic;
-  color: #d4af37; /* dorado elegante */
+  font-family:'Great Vibes', cursive;
+  font-size: clamp(1.2rem, 3.5vw, 1.8rem);
+  line-height:1.3;
+  color:var(--accent);
+  margin:0 0 28px;
+
 }
